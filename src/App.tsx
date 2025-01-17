@@ -145,7 +145,7 @@ const App: React.FC = () => {
         <p>
           I know you're an expert at this game already, but I was excited by the
           spotlight features, and there are a few things to tell you before you
-          start.
+          start. So please don't dismiss these instructions!
         </p>
       </Spotlight>,
       <Spotlight
