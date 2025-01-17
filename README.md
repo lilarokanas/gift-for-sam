@@ -31,7 +31,7 @@ npm install
 You should now be able to run this application locally via:
 
 ```bash
-yarn dev
+npm run dev
 ```
 
 A link will be outputted in the terminal. Navigate to it to access the site. 
